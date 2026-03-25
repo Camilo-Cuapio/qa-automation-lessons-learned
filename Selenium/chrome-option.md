@@ -1,3 +1,4 @@
+```java
 //Allure results
 
 🧠 🔍 What does this code do?
@@ -104,3 +105,4 @@ If you want, I can help you next with:
 
 Running tests in headless + CI/CD
 Or implementing multi-browser support (Chrome, Edge, Firefox) 🔥
+
