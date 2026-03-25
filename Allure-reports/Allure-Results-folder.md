@@ -1,4 +1,3 @@
-Versión corregida (lista para copiar)
 # 🚨 Allure Results Folder Issue
 
 ## 🧪 Problema
